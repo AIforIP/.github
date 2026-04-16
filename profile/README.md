@@ -6,3 +6,6 @@
 👀 Works
 - Benchmark and Dataset
   - IPBench [Website](ipbench.wangqiyao.me)
+
+- AI for Research
+  - FlowPIE [Website](flowpie.wangqiyao.me)
