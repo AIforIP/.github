@@ -5,7 +5,8 @@
 
 👀 Works
 - Benchmark and Dataset
-  - IPBench [Website](ipbench.wangqiyao.me)
+  - IPBench [Website](ipbench.wangqiyao.me) | IP Intelligence
+  - InteractWeb-Bench [Website](interactweb-bench.wangqiyao.me) | Coding Agent
 
 - AI for Research
   - FlowPIE [Website](flowpie.wangqiyao.me)
