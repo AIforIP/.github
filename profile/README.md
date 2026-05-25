@@ -7,6 +7,7 @@
 - Benchmark and Dataset
   - IPEval [Website](ipeval.wangqiyao.me) | IP Intelligence 
   - IPBench [Website](ipbench.wangqiyao.me) | IP Intelligence | ACL 2026
+  - PatRe [Website](patre.wangqiyao.me) | IP Intelligence
   - InteractWeb-Bench [Website](interactweb-bench.wangqiyao.me) | Coding Agent
 
 - AI for Research
