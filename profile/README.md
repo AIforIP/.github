@@ -5,8 +5,12 @@
 
 👀 Works
 - Benchmark and Dataset
-  - IPBench [Website](ipbench.wangqiyao.me) | IP Intelligence
+  - IPEval [Website](ipeval.wangqiyao.me) | IP Intelligence 
+  - IPBench [Website](ipbench.wangqiyao.me) | IP Intelligence | ACL 2026
   - InteractWeb-Bench [Website](interactweb-bench.wangqiyao.me) | Coding Agent
 
 - AI for Research
   - FlowPIE [Website](flowpie.wangqiyao.me)
+
+- Patent Processing
+  - AutoPatent [Website](autoaptent.wangqiyao.me) | IP Intelligence | JCIP 2026
