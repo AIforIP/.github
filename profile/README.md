@@ -2,6 +2,7 @@
 
 📮 Contact: wangqiyao25@mails.ucas.ac.cn
 
+You can get more information from [Qiyao Wang](wangqiyao.me) and the wechat official count *Taibao-IP*.
 
 👀 Works
 - Benchmark and Dataset
