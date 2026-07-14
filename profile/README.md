@@ -1,4 +1,4 @@
-👏 Welcome to ***IP Intelligence***, an open-source research group dedicated to advancing AI for Intellectual Property, jointly leaded by SIAT-NLP and DUT-IR.
+👏 Welcome to ***IP Intelligence***, an open-source research group dedicated to advancing AI for Intellectual Property, jointly leaded by SIAT-NLP and DUT-IR, with leadership from a PhD student, [Qiyao Wang](https://wangqiyao.me/).
 
 📮 Contact: wangqiyao25@mails.ucas.ac.cn
 
