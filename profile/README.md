@@ -12,7 +12,7 @@ You can get more information from [Qiyao Wang](https://wangqiyao.me/) and the we
   - InteractWeb-Bench [Website](interactweb-bench.wangqiyao.me) | Coding Agent
 
 - AI for Research
-  - FlowPIE [Website](flowpie.wangqiyao.me)
+  - FlowPIE [Website](flowpie.wangqiyao.me) | IP Intelligence
 
 - Patent Processing
   - AutoPatent [Website](autoaptent.wangqiyao.me) | IP Intelligence | JCIP 2026
